@@ -65,8 +65,8 @@ not g4(w1,a);
 and g5(borr,w1,b);
 endmodule
 
-Developed by:PRAVEEN RAJ R
-RegisterNumber:24901056
+Developed by:SHAGILAN U
+RegisterNumber:24013515
 */
 ```
 **RTL Schematic**
