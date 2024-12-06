@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+[# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -79,3 +79,4 @@ RegisterNumber:24901056
 
 **Result:**
 The code is excecuted successfully
+]
